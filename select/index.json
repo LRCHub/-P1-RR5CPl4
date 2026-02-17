@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "シャロン",
+  "base_artist": "ROSSO",
+  "createdAt": "2026-02-17T05:55:53.411909Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャロン",
+      "artist": "ROSSO",
+      "has_synced": false,
+      "path": "select/01_シャロン_ROSSO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャロン",
+      "artist": "ROSSO",
+      "has_synced": false,
+      "path": "select/pl_01_シャロン_ROSSO.txt"
+    }
+  ]
+}
